@@ -1,4 +1,9 @@
 # 👋 Hi, I'm Jinseok!
+
+<p align="left">
+  <b>Backend Developer</b> aspiring for clean code and robust systems.
+</p>
+
 ---
 
 ### 📬 Contact
@@ -26,12 +31,20 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
+</p>
+
+#### ☁️ Infra & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artifact_Registry-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/>
 </p>
 
 #### 🔧 Tools
 <p align="left">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
