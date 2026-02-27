@@ -1,9 +1,4 @@
 # 👋 Hi, I'm Jinseok!
-
-<p align="left">
-  <b>Backend Developer</b> aspiring for clean code and robust systems.
-</p>
-
 ---
 
 ### 📬 Contact
@@ -38,7 +33,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artifact_Registry-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/>
 </p>
 
