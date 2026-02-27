@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Jinseok!
+# 👋
 
 <p align="left">
-  <img src="https://iterm2.com/images/iTerm2Logo.png" width="20" />
   <b>Backend Developer</b> aspiring for clean code and robust systems.
 </p>
 
