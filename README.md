@@ -45,16 +45,9 @@
 
 ---
 
-### 📊 Github Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jinseokk92&show_icons=true&theme=transparent&hide_border=true&title_color=007396&icon_color=007396&text_color=555555" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinseokk92&layout=compact&theme=transparent&hide_border=true&title_color=007396&text_color=555555" height="150" />
-</p>
-
 ### 🏆 Contribution Graph
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jinseokk92&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jinseokk92&theme=react-dark&hide_border=true&area=true&cache_seconds=1800" width="100%" />
 </p>
 
 <br/>
-
