@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Jinseok!
----
 
 ### 📬 Contact
 <p align="left">
